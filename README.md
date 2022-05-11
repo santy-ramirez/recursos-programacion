@@ -1,6 +1,6 @@
-<div align="center"> 
+<div align="center">
 
-# Recursos de Programación 
+# Recursos de Programación
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
@@ -25,17 +25,17 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Índice](#índice)
 - [Contribución](#contribución)
 
-# Resumen 
+# Resumen
 
-[Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Que empezó siendo una pequeña cuenta de Instagram que hacía publicaciones sobre programación. A día de hoy contamos con más de 15.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
+[Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Que empezó siendo una pequeña cuenta de Instagram que hacía publicaciones sobre programación. A día de hoy contamos con más de 25.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
 
 Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la mayor cantidad posible de recursos de programación que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por lenguajes de programación, en cada lenguaje podrás encontrar recursos para dicho lenguaje, frameworks, librerías y mucho más.
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad 
+# Comunidad
 
-- Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
+- Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación
 - ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC) <a href="https://discord.com/invite/9vvcTTC">
     		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   	</a>
@@ -44,24 +44,29 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
   	</a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
-# Índice 
+# Índice
 
 * [C](#c)
 * [CSS](#css)
 * [Dart](#dart)
+* [Entrevistas Técnicas](#entrevistas-técnicas)
 * [Go](#go)
+* [Herramientas](#herramientas)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Kubernetes](#Kubernetes)
 * [PHP](#php)
 * [Python](#python)
 * [R](#R)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Swift](#swift)
+
 
 ## C
 
@@ -85,7 +90,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| C++ for beginners | Tutorial para aprender C++ para principiantes | Tutorial | Español | Sí | [link](https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq) |
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
+| C++ Fundamental | Fundamentos de C++ | Blog | Español | Sí | [Link](https://www.programarya.com/Cursos/C++) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
 | C++ Programming In One Video | Video resumen para entender la sintaxis de C++ | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=raZSmcariyU&t=1s&ab_channel=MikeDane) |
 | C++ Tutorialpoint | Documentación de C++ | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/cplusplus/) |
@@ -94,6 +101,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | cplusplus | Documentación detallada de C++ | Documentación | Inglés | sí | [Link](http://www.cplusplus.com/) |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
+| Programación en C++ | Aprende programación en C++| Tutorial | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
 
 **[⬆ Volver al índice](#índice)**
@@ -160,6 +168,21 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+## Entrevistas Técnicas
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
+| Cracking the coding interview | Libro con todo lo que necesitas saber de las entrevistas técnicas | Libro | Inglés | Sí | [Link](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) |
+| Leetcode | Página web en la que puedes prácticar para entrevistas técnicas | Blog | Inglés | Sí | [Link](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) |
+| Mock coding interview | Ejemplos de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLJmKHshC7qJlO8VC3e9J8Z5WH42hALV6x) |
+| Preguntas de entrevistas técnicas | Recopilación de videos de preguntas de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) |
+| Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
+| Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
 
 ## Go
 
@@ -178,6 +201,69 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+## Herramientas
+
+### Backend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Django | Framework web para Python | Librería | Sí | [Link](https://www.djangoproject.com)
+| Express | Framework web para NodeJS | Librería | Sí | [Link](https://expressjs.com)
+| FastAPI | Framework web para Python | Librería | Sí | [Link](https://fastapi.tiangolo.com)
+| Flask | Framework web para Python | Librería | Sí | [Link](https://flask.palletsprojects.com)
+| Laravel | Framework web para PHP | Librería | Sí | [Link](https://laravel.com)
+| Next | Framework web para NodeJS | Librería | Sí | [Link](https://nextjs.org)
+| Ruby on Rails | Framework web para Ruby | Librería | Sí | [Link](https://rubyonrails.org)
+| Spring | Framework web para Java | Librería | Sí | [Link](https://spring.io)
+| Symfony | Framework web para PHP | Librería | Sí | [Link](https://symfony.com)
+
+**[⬆ Volver al índice](#índice)**
+
+### Bases de datos
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Memcached | Almacenamiento en memoria, usada como caché | Clave-valor | Sí | [Link](http://www.memcached.org)
+| MongoDB | Base de datos orientada a documentos | Documento | Sí | [Link](https://www.mongodb.com)
+| MySQL | Base de datos relacional | Relacional | Sí | [Link](https://www.mysql.com)
+| Neo4j | Base de datos distribuída y de alto rendimiento | Grafos | Sí | [Link](https://neo4j.com)
+| PostgreSQL | De las bases de datos más usadas hoy en día | Relacional | Sí | [Link](https://www.postgresql.org)
+| Redis | Almacenamiento en memoria de alto rendimiento | Clave-valor | Sí | [Link](https://redis.io)
+| SQLite | Embebible, muy usada en dispositivos móviles | Relacional | Sí | [Link](https://www.sqlite.org)
+
+**[⬆ Volver al índice](#índice)**
+
+### Editores de código
+
+| Nombre | Descripción | Gratuito | Link |
+|---|---|---|---|
+| Atom | Entorno de desarrollo integrado | Sí | [Link](https://atom.io)
+| Intellij Idea | Entorno de desarrollo integrado | No | [Link](https://www.jetbrains.com/idea)
+| Kakoune | Editor de código para la terminal con manipulación de texto avanzado | Sí | [Link](https://kakoune.org)
+| Sublime Text | Editor de text ligero | No | [Link](https://www.sublimetext.com)
+| Vim | Editor de texto para la terminal | Sí | [Link](https://www.vim.org)
+| Visual Studio Code | Entorno de desarrollo integrado extensible | Sí | [Link](https://code.visualstudio.com/)
+
+**[⬆ Volver al índice](#índice)**
+
+### Frontend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Angular | Framework web para JS | Librería | Sí | [Link](https://angular.io)
+| Bootstrap | Framework para CSS | Librería | Sí | [Link](https://getbootstrap.com)
+| Bulma | Framework para CSS | Librería | Sí | [Link](https://bulma.io)
+| Gatsby | Generador de sitios estáticos | Librería | Sí | [Link](https://www.gatsbyjs.com)
+| Less | Preprocesador CSS | Librería | Sí | [Link](https://lesscss.org)
+| React | Framework web para JS | Librería | Sí | [Link](https://reactjs.org)
+| Sass | Preprocesador CSS | Librería | Sí | [Link](https://sass-lang.com)
+| Semantic UI | Framework para CSS | Librería | Sí | [Link](https://semantic-ui.com)
+| Svelte | Framework web para JS | Librería | Sí | [Link](https://svelte.dev)
+| Tailwind | Framework para CSS | Librería | Sí | [Link](https://tailwindcss.com)
+| Vue | Framework para web JS | Librería | Sí | [Link](https://vuejs.org)
+
+**[⬆ Volver al índice](#índice)**
+
 
 ## HTML
 
@@ -187,6 +273,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Build a Website Tutorial | Tutorial de HTML creando una página web | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org) |
 | Curso de HTML5 desde CERO | Tutorial desde cero de HTML | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=kN1XP-Bef7w&ab_channel=SoyDalto) |
 | Curso HTML para Principiantes | Tutorial en español de HTML para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt) |
+| Curso HTML5 | Tutorial completo de HTML5 | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vz4z0RLcAyk)
 | HTML and CSS Tutorial for 2021 | Curso de HTML y CSS actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) |
 | HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
 | HTML Crash Course For Absolute Beginners | Tutorial para principiantes de HTML | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia) |
@@ -224,20 +311,21 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
 | CDNJS | Lista de librerías en CDN de JavaScript | Utilidad | Inglés | Sí | [Link](https://cdnjs.com/) |
+| Curso completo de Javascript | Lista de reproducción para aprender Javascript | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
 | Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
 | Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
 | Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
-| JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | JavaScript Cheatsheet | Cheatsheet de JavaScript | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
 | JavaScript Crash Course For Beginners | Tutorial corto para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | JavaScript tutorial|API web proporcionadas por javascript | Documentación | Inglés | Sí | [Link](https://www.javascripttutorial.net/web-apis/ ) |
+| JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | Javatpoint : javaScript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
-| Html DOM | Administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| HTML DOM | Administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
 | Learn javaScript| teoría y ejercicios de javaScript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
@@ -266,6 +354,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build a Web App with React | Curso para crear una aplicación Web con React | Curso | Inglés | Sí | [Link](https://blog.glitch.com/post/react-starter-kit?ref=java5cript.com) |
+| Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
 | Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
 | Full React Tutorial | Lista de reproducción de tutoriales de React | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=TheNetNinja) |
 | Learn React for free | Curso gratuito para aprender React | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnreact?ref=java5cript.com) |
@@ -281,6 +370,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
+
 
 **[⬆ Volver al índice](#índice)**
 
@@ -318,6 +408,16 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+## Kubernetes
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Docker and Kubernetes Tutorial Full Course [2021] | Completo tutorial de Docker y Kubernetes para principiapntes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=bhBSlnQcq2k&t=4888s) |
+| ¿QUE ES KUBERNETES?| Introducción a Kubernetes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=oTf0KxK1QNo&list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_s) |
+
+
+**[⬆ Volver al índice](#índice)**
+
 ## PHP
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
@@ -325,11 +425,14 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Curso PHP MySQL | Series de tutoriales de PHP y MySQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=I75CUdSJifw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&ab_channel=pildorasinformaticas) |
 | Curso PHP 2020 | Lista de reproducción para aprender PHP | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vXf5gaozWcc&list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5&ab_channel=yacklyon) |
 | Learn PHP | Documentación con tutoriales de PHP | Documentación | Inglés | Sí | [Link](https://www.learn-php.org/) |
+| PHP and MySQL Web Development | Libro Online | Libro | Inglés | Sí | [Link](https://drive.google.com/file/d/1rKbdAswnJXCQUqOm3PxREnNVV_hIdT-c/view?usp=sharing) |
 | PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
 | PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
 | PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
 | PHP Full Course | Tutorial de más de 4 horas de PHP | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org) |
 | PHP Programa | Sistema de Etiquetas HTML (seh) | Documentación | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
+| PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
+| PHP Template | Practica PHPUnit | Repositorio/video tutorial | Español | Sí | [Link](https://github.com/rgg7888/mentos) |
 | PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
 
 **[⬆ Volver al índice](#índice)**
@@ -338,19 +441,33 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Automate the Boring Stuff with Python | EBook para aprender Pythin | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
+| 🐍 El Libro de Python 🐍 | Libro Online | Libro | Español | Sí | [Link](https://ellibrodepython.com/) |
+| Analyzing Data with Python |  In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! | Curso online | Inglés | Sí | [Link](https://www.edx.org/course/analyzing-data-with-python) |
+| Aprende python desde cero. Primeros pasos. |  De programador para programadores: empieza en el mundo de Python con este curso | Curso en udemy | Español | Sí | [Link](https://www.udemy.com/course/aprende-python-desde-cero-primeros-pasos/?referralCode=285241350DB6117A362D) |
+| Aprende a Programar en Python Desde Cero |  Curso Completo Gratis de 4.5+ Horas | Curso online | Español | Sí | [Link](https://youtu.be/DLikpfc64cA) |
+| Automate the Boring Stuff with Python | EBook para aprender Python | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
+| Curso de Python científico en español | De cero a las bases de Python científico | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-cientifico-ing-unrc) |
+| Curso de Python de propósito general |  De cero a las bases de Python | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-rio4) |
 | Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas) |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
 | Dive into Python 3 | Libro online para aprender Python | Libro | Inglés | Sí | [Link](https://diveintopython3.net/) |
 | Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
+| Intro a programación con Python | Tutorial de Python | Repositorio | Español | Sí | [Link](https://github.com/RodolfoFerro/python-innovaccion) |
 | Learn Python | Documentación de Python | Documentación | Inglés | Sí | [Link](https://www.learnpython.org/) |
 | Learn Python Course | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
+| Pydon'ts (by Rodrigo Girao) | Ebook to write elegant Python code | Libro | Inglés | Si |[Link](https://mathspp.com/blog/pydonts) |
 | Python Basics | Documentación para aprender Python | Documentación | Inglés | Sí | [Link](https://pythonbasics.org/) |
 | Python Books | Librería de libros gratuitos de Python | Libro | Inglés | Sí | [Link](https://pythonbooks.revolunet.com/) |
+| Python Crash Course (by Eric Matthes)| Buen libro de referencia para aprender Python partiendo de cero| Libro | Inglés | Si |[Link](https://ehmatthes.github.io/pcc/) |
+| Python Django Crash Course 2021 | curso con conceptos básicos que le ayudarán a aprender y dominar Django para un desarrollo web rápido | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=IHTP8-KskcQ) |
 | Python Docs | Documentación oficial de Python | Documentación | Español | Sí | [Link](https://docs.python.org/es/3/) |
+| Python FastAPI Web Framework Tuturial | En este tutorial, damos un primer vistazo a la construcción de una API con FastAPI | Tururial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=NH4VZaP3_9s&list=PLOLrQ9Pn6cay_BE9pz1djcqW0-p2QiRUx) |
 | Python for Beginners | Tutorial de 6 horas de Python para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4s&ab_channel=ProgrammingwithMosh) |
 | Python for Everybody | Recolección de materiales para aprender Python | Documentación | Inglés | Sí | [Link](https://www.py4e.com/) |
+| Python para principiantes 🐍 Curso GRATIS desde cero | Desde Afi Escuela de Finanzas ponemos a disposición el curso gratuito de Python impartido por Javier Calderón, Consultor del Área de Finanzas Cuantitativas de Afi.  | Video Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=BrJE-4euNn0) |
 | Python Programming | Documentación con tutoriales de Python | Documentación | Inglés | Sí | [Link](https://pythonprogramming.net/) |
+| Python Tricks: A buffet of awesome Python features (by Dan Bader)| Buen libro de referencia para Python, nivel intermedio | Libro | Inglés | No |[Link](https://realpython.com/products/python-tricks-book/) |
+| Tutorial de Python en español | Tutorial oficial de Python | Tutorial | Español | Sí | [Link](https://tutorial.python.org.ar/en/latest/) |
 | W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
 
 **[⬆ Volver al índice](#índice)**
@@ -387,12 +504,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | 24 days of Rust | Aprender Rust en 24 días | Documentación | Inglés | Sí | [Link](http://zsiciarz.github.io/24daysofrust/book/vol1/) |
 | Amethyst Documentation | Documentación para aprender a crear videojuegos con Rust | Documentación | Inglés | Sí | [Link](https://book.amethyst.rs/book/stable/) |
-| Rustlings | Reposiorio de ejercicios de Rust | Repositorio | Inglés | Sí | [Link](https://github.com/rust-lang/rustlings) |
 | Rust Crash Course | Tutorial intensivo de Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=zF34dRivLOw&ab_channel=TraversyMedia) |
 | Rust Docs | Documentación oficial de Rust | Documentación | Español | Sí | [Link](https://www.rust-lang.org/es/learn) |
 | Rust en español | Lista de reproducción para aprender Rust | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=KOABboz7PBs&list=PLojDVPvSO1DjYj8bMcMOU3KzLbRww-3Eb&ab_channel=robertohuertasm) |
 | Rust Programming Tutorial | Tutorial para aprender Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&ab_channel=dcode) |
 | Rust Tutorial | Documentación para aprender Rust | Documentación | Inglés | Sí | [Link](http://aml3.github.io/RustTutorial/html/toc.html) |
+| Rustlings | Reposiorio de ejercicios de Rust | Repositorio | Inglés | Sí | [Link](https://github.com/rust-lang/rustlings) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -401,12 +518,30 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Aprende Scala | Lista de reproducción para aprender Scala | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t6pl0gacuX0&list=PLTd5ehIj0goOlRPRfwGGu9Bc2ap4bt7wR&ab_channel=makigas%3Atutorialesdeprogramaci%C3%B3n) |
-| Tutorial de Scala | Documentación de Scala con ejemplos simples | Tutorial | Español | Sí | [Link](https://www.diegocalvo.es/tutorial-de-scala/) |
 | Rock the JVM | Canal de Youtube especializado en Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/c/RocktheJVM/videos) |
 | Scala at Light Speed | Tutoriales para dominar Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=-8V6bMjThNo&list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM&ab_channel=RocktheJVM) |
+| Scala Crash Course | Blog con conceptos básicos de Scala | Tutorial | Inglés | Sí | [Link](https://blog.brakmic.com/scala-crash-course-part-1/) |
 | Scala Docs | Documentación oficial de Scala | Documentación | Inglés | Sí | [Link](https://docs.scala-lang.org/?_ga=2.153216184.1809149693.1618661551-1561653874.1618661551) |
 | Scala Tutorial | Tutorial para aprender Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas) |
 | Scala Tutorial Full Course | Tutorial para principiantes de Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko) |
+| Tutorial de Scala | Documentación de Scala con ejemplos simples | Tutorial | Español | Sí | [Link](https://www.diegocalvo.es/tutorial-de-scala/) |
+
+**[⬆ Volver al índice](#índice)**
+
+## Solidity
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Aprendiendo Solidity | Tutorial básico para aprender Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg&ab_channel=WillitScale) |
+| Foro Solidity | Foro oficial de Solidity | Foro | Inglés | Sí | [Link](https://forum.soliditylang.org/) |
+| Repositorio Solidity | Repositorio oficial de Solidity | Repositorio | Inglés | Sí | [Link](https://github.com/ethereum/solidity/blob/v0.8.9/docs/index.rst) |
+| Solidity CRUD, Tu primer Smart Contract en Remix IDE | Tutorial para realizar un CRUD con Solidity  | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=JP-dzoDmJFw&ab_channel=FaztCode) |
+| Solidity Docs | Documentación oficial de Solidity | Documentación | Inglés | Sí | [Link](https://docs.soliditylang.org/en/v0.8.9/) |
+| Solidity en 2 minutos | Explicación básica de solidity en 2 minutos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3i203iTmcFc&ab_channel=Cryptografi) |
+| Solidity Tutorial | Canal de Youtube especializado en Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ipwxYa-F1uY&ab_channel=freeCodeCamp.org) |
+| Solidity Tutorial | Array, Mapping y Struct en Solidity | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=_PbU9TE_7bY&ab_channel=AlbertoLasa-Blockchain) |
+| Solidity Tutorial | Tutorial básico de | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=UujjTmkjWI8&ab_channel=NicolasPalacios) |
+| Solidity Tutorial Dapp desde cero | Como crear una Dapp desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t10BiFG9Dfc&ab_channel=AlbertoLasa-Blockchain) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -443,11 +578,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+
 # Contribución
 
-Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
+Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor.
 
-Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
+Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas.
 
 ## ¿Cómo contribuir al repositorio? 🤝
 
@@ -487,6 +623,16 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 * [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
 * [Santiago Ramirez](https://github.com/santy-ramirez): Contribuidor.
 * [Rgg7888](https://github.com/rgg7888): Contribuidor.
-
-
+* [KodeWeb21](https://github.com/KodeWeb21): Contribuidor.
+* [Wiki-10](https://github.com/Wiki-10): Contribuidor.
+* [ibLeDy](https://github.com/ibLeDy): Contribuidor.
+* [brivadeneira](https://github.com/brivadeneira): Contribuidor.
+* [mhered](https://github.com/mhered): Contribuidor.
+* [devjaime](https://github.com/devjaime): Contribuidor.
+* [ellibrodepython](https://github.com/ellibrodepython): Contribuidor.
+* [IvySaskia](https://github.com/IvySaskia): Contribuidor.
+* [Rafael de Luna](https://github.com/RDLL): Contribuidor.
+* [joelcede](https://github.com/joelcede): Contribuidor.
+* [rapejim](https://github.com/rapejim): Contribuidor.
+* [JuliKM](https://github.com/JuliKM): Contribuidor.
 
